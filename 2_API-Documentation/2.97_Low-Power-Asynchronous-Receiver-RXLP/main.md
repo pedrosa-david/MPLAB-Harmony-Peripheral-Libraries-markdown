@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.97.1 RXLP_Initialize Function](2.97.1_RXLP_Initialize%20Function.md)
+- [2.97.1 RXLP_Initialize Function](#2971)

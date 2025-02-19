@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.60.1 MATRIX_Initialize Function](2.60.1_MATRIX_Initialize%20Function.md)
+- [2.60.1 MATRIX_Initialize Function](#2601)

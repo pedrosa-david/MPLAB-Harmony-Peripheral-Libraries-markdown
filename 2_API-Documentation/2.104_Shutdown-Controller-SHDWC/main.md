@@ -4,10 +4,8 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.104.1 SHDWC_Initialize Function](2.104.1_SHDWC_Initialize%20Function.md)
-- [2.104.2 SHDWC_Shutdown Function](2.104.2_SHDWC_Shutdown%20Function.md)
-- [2.104.3 SHDWC_GetWakeup Function](2.104.3_SHDWC_GetWakeup%20Function.md)
+- [2.104.1 SHDWC_Initialize Function](#21041)
+- [2.104.2 SHDWC_Shutdown Function](#21042)
+- [2.104.3 SHDWC_GetWakeup Function](#21043)

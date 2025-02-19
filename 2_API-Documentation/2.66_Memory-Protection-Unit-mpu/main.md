@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.66.1 MPU_Initialize Function](2.66.1_MPU_Initialize%20Function.md)
+- [2.66.1 MPU_Initialize Function](#2661)

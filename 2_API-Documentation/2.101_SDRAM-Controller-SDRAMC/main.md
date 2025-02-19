@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.101.1 SDRAMC_Initialize Function](2.101.1_SDRAMC_Initialize%20Function.md)
+- [2.101.1 SDRAMC_Initialize Function](#21011)

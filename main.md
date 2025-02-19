@@ -6,3 +6,4 @@
 - [Device Families](3_Device-Families/main.md)
 - [MPLAB® Harmony Peripheral Libraries](1_MPLAB®%20Harmony%20Peripheral%20Libraries.md)
 - [Microchip Information](Microchip%20Information.md)
+- [documentation](combined_documentation.md)

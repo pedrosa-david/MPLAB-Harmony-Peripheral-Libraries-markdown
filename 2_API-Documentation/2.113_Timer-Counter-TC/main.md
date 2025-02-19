@@ -4,14 +4,10 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
-
-### Subsections
+## Topics
 
 - [2.113.1 Basic Timer Counter TC](2.113.1_Basic-Timer-Counter-TC/main.md)
 - [2.113.2 Timer Counter TC](2.113.2_Timer-Counter-TC/main.md)
 
-### Topics
-
-- [2.113.1 Basic Timer Counter (TC)](2.113.1_Basic%20Timer%20Counter%20(TC).md)
-- [2.113.2 Timer Counter (TC)](2.113.2_Timer%20Counter%20(TC).md)
+- [2.113.1 Basic Timer Counter (TC)](#21131)
+- [2.113.2 Timer Counter (TC)](#21132)

@@ -4,11 +4,9 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.68.1 NVIC_Initialize Function](2.68.1_NVIC_Initialize%20Function.md)
-- [2.68.2 NVIC_INT_Enable Function](2.68.2_NVIC_INT_Enable%20Function.md)
-- [2.68.3 NVIC_INT_Disable Function](2.68.3_NVIC_INT_Disable%20Function.md)
-- [2.68.4 NVIC_INT_Restore Function](2.68.4_NVIC_INT_Restore%20Function.md)
+- [2.68.1 NVIC_Initialize Function](#2681)
+- [2.68.2 NVIC_INT_Enable Function](#2682)
+- [2.68.3 NVIC_INT_Disable Function](#2683)
+- [2.68.4 NVIC_INT_Restore Function](#2684)

@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.35.1 EBI_Initialize Function](2.35.1_EBI_Initialize%20Function.md)
+- [2.35.1 EBI_Initialize Function](#2351)

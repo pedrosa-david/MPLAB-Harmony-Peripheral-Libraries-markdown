@@ -4,9 +4,7 @@
 
 [↑↑ Back to Main Documentation](../../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [3.30.4.1 CLK_UTMIPLLEnable Function](3.30.4.1_CLK_UTMIPLLEnable%20Function.md)
-- [3.30.4.2 CLK_UTMIPLLDisable Function](3.30.4.2_CLK_UTMIPLLDisable%20Function.md)
+- [3.30.4.1 CLK_UTMIPLLEnable Function](#33041)
+- [3.30.4.2 CLK_UTMIPLLDisable Function](#33042)

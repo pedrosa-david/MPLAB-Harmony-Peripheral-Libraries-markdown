@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.72.1 OPAMP_Initialize Function](2.72.1_OPAMP_Initialize%20Function.md)
+- [2.72.1 OPAMP_Initialize Function](#2721)

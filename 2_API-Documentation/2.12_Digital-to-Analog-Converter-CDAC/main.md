@@ -4,9 +4,7 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.12.1 CDACx_Initialize Function](2.12.1_CDACx_Initialize%20Function.md)
-- [2.12.2 CDACx_DataWrite Function](2.12.2_CDACx_DataWrite%20Function.md)
+- [2.12.1 CDACx_Initialize Function](#2121)
+- [2.12.2 CDACx_DataWrite Function](#2122)

@@ -4,8 +4,6 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.26.1 DDR_Initialize Function](2.26.1_DDR_Initialize%20Function.md)
+- [2.26.1 DDR_Initialize Function](#2261)

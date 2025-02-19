@@ -4,12 +4,10 @@
 
 [↑↑ Back to Main Documentation](../../main.md)
 
-## Contents
+## Topics
 
-### Topics
-
-- [2.119.1 TRNG_Initialize Function](2.119.1_TRNG_Initialize%20Function.md)
-- [2.119.2 TRNG_RandomNumberGenerate Function](2.119.2_TRNG_RandomNumberGenerate%20Function.md)
-- [2.119.3 TRNG_ReadData Function](2.119.3_TRNG_ReadData%20Function.md)
-- [2.119.4 TRNG_CallbackRegister Function](2.119.4_TRNG_CallbackRegister%20Function.md)
-- [2.119.5 TRNG_CALLBACK Typedef](2.119.5_TRNG_CALLBACK%20Typedef.md)
+- [2.119.1 TRNG_Initialize Function](#21191)
+- [2.119.2 TRNG_RandomNumberGenerate Function](#21192)
+- [2.119.3 TRNG_ReadData Function](#21193)
+- [2.119.4 TRNG_CallbackRegister Function](#21194)
+- [2.119.5 TRNG_CALLBACK Typedef](#21195)
